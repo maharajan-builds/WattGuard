@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="circuit-diagram.png" alt="WattGuard Circuit Diagram" width="700">
+  <img src="WG-CIRCUITDIAGRAM.png" alt="WattGuard Circuit Diagram" width="700">
 </p>
 
 ---
@@ -90,7 +90,7 @@ The main objectives of WattGuard are:
 
 ## 📐 Circuit Diagram
 
-![WattGuard Circuit Diagram](circuit-diagram.png)
+![WattGuard Circuit Diagram](WG-CIRCUITDIAGRAM.png)
 
 The circuit consists of an ESP32 connected to two potentiometers for simulated voltage and current inputs, an SSD1306 OLED display, an LED, and a buzzer.
 
@@ -98,7 +98,7 @@ The circuit consists of an ESP32 connected to two potentiometers for simulated v
 
 ## 🔄 System Flowchart
 
-![WattGuard Flowchart](flowchart.png)
+![WattGuard Flowchart](WG-FLOWCHART)
 
 ### Working Flow
 
