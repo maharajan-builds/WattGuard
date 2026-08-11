@@ -98,7 +98,7 @@ The circuit consists of an ESP32 connected to two potentiometers for simulated v
 
 ## 🔄 System Flowchart
 
-![WattGuard Flowchart](WG-FLOWCHART)
+![WattGuard Flowchart](WG-FLOWCHART.png)
 
 ### Working Flow
 
