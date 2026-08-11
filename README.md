@@ -326,7 +326,7 @@ The system was tested by varying the simulated voltage and current inputs.
 
 ## 📈 Testing Results
 
-![WattGuard Testing Results](WG-TESTING.png)
+![WattGuard Testing Results](WG-TEST.png)
 
 The testing confirmed that the system correctly responds to different simulated power conditions.
 
